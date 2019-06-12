@@ -27,6 +27,14 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+
+
+
+
+
+
+
+
                 un = edt1.getText().toString();
                 pass = edt2.getText().toString();
                  Bundle bundle = new Bundle();
